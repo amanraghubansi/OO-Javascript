@@ -1,0 +1,1 @@
+h2,p,figure{ 	margin: 0; 	padding: 0; } body{ 	font-size: 16px; } #first-slide-show, #second-slide-show{ 	text-align: center; 	border: 1px solid; 	margin: 0 auto 25px; 	width: 22%; } h2{ 	margin: 10px 0; } button{ 	margin: 10px 15px; 	font-size: 1em; }
